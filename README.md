@@ -43,11 +43,7 @@ Ekstra kurulum gerekmez.
 
 ## Kullanım
 
-1. Python dosyasını çalıştırın:
-```bash
-python main.py
-
-
-## Gerekli kütüphaneleri yüklemek için:
-```bash
-pip install numpy pillow matplotlib numpy-stl
+1. Proje klasöründe terminal veya komut satırını açın.
+2. Gerekli kütüphaneleri yüklemek için aşağıdaki komutu çalıştırın:
+   ```bash
+   pip install numpy pillow matplotlib numpy-stl
