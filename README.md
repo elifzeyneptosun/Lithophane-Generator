@@ -44,8 +44,8 @@ Ekstra kurulum gerekmez.
 ## Kullanım
 
 1. Python dosyasını çalıştırın:
-   ```bash
-   python main.py
+```bash
+python main.py
 
 
 ## Gerekli kütüphaneleri yüklemek için:
